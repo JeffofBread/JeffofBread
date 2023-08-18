@@ -1,3 +1,1 @@
-Im JeffofBread, also often know as Jeff, God of Biscuits. Casual coder that messes
-with whatever I can get my hands on. Love coding, math, aerospace, and gaming. 
-If you have any questions, feel free to contact me on discord @JeffOfBread#1981.
+Hi, I'm Jeff! I am a full time CS student who dables in low level systems, specifically with Unix. If you would like to contact me, discord will be the quickest and easiest way. My discord is just jeffofbread. If you specifically have an issue with a particular repo or project I have, please post an issue or discussion on that project instead of directly messaging me. 
